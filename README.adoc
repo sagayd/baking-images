@@ -1,0 +1,10 @@
+= How to bake images for Cloud
+
+We use Hashicorp Packer to bake images
+
+[%hardbreaks]
+What we need?
+- Access role/permission on Cloud
+- Packer template
+  -- Packer template file
+  -- Packer variable
